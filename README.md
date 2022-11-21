@@ -3,9 +3,8 @@
 <h3>Languages:-</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,html,css,python,mysql&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,python,mysql&theme=light" />
   </a>
 </p>
 
-
-I am still learning new languages
+<h4>Finding inner piece</h4>
